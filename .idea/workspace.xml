@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="674ccce6-bdfc-4806-b337-bc3c2773dba0" name="Changes" comment="Starting project - Course Testing RESTful Web">
+      <change beforePath="$PROJECT_DIR$/../UserService/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/css/coverage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/css/idea.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/img/arrowDown.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/img/arrowUp.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/index_SORT_BY_BLOCK.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/index_SORT_BY_CLASS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/index_SORT_BY_LINE.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/index_SORT_BY_METHOD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/js/highlight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/js/highlightjs-line-numbers.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/index_SORT_BY_BLOCK.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/index_SORT_BY_CLASS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/index_SORT_BY_LINE.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/index_SORT_BY_METHOD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/sources/source-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/sources/source-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/sources/source-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/sources/source-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/sources/source-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/htmlReport/ns-1/sources/source-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/src/main/java/com/appsdeveloperMl/estore/data/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/src/main/java/com/appsdeveloperMl/estore/data/UserRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/src/main/java/com/appsdeveloperMl/estore/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/src/main/java/com/appsdeveloperMl/estore/service/EmailNotificationServiceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/src/main/java/com/appsdeveloperMl/estore/service/EmailVerificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/src/main/java/com/appsdeveloperMl/estore/service/EmailVerificationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/src/main/java/com/appsdeveloperMl/estore/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/src/main/java/com/appsdeveloperMl/estore/service/UserServiceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/src/main/java/com/appsdeveloperMl/estore/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/src/test/java/com/appsdeveloperMl/estore/service/UserServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/classes/com/appsdeveloperMl/estore/data/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/classes/com/appsdeveloperMl/estore/data/UserRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/classes/com/appsdeveloperMl/estore/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/classes/com/appsdeveloperMl/estore/service/EmailNotificationServiceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/classes/com/appsdeveloperMl/estore/service/EmailVerificationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/classes/com/appsdeveloperMl/estore/service/EmailVerificationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/classes/com/appsdeveloperMl/estore/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/classes/com/appsdeveloperMl/estore/service/UserServiceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/classes/com/appsdeveloperMl/estore/service/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/jacoco.exec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/css/apache-maven-fluido-2.0.0-M9.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/css/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/accessories-text-editor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/add.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/apache-maven-project-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/application-certificate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/contact-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/document-properties.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/drive-harddisk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/fix.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/icon_error_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/icon_help_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/icon_info_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/icon_success_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/icon_warning_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/image-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/internet-web-browser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/logos/build-by-maven-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/logos/build-by-maven-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/logos/maven-feather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/network-server.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/package-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/profiles/pre-release.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/profiles/retired.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/profiles/sandbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/remove.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/rss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/update.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/images/window-new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/js/apache-maven-fluido-2.0.0-M9.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/reports/surefire.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.data/UserRepositoryImpl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.data/UserRepositoryImpl.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.data/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.data/index.source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.model/User.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.model/User.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.model/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.model/index.source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.service/EmailNotificationServiceException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.service/EmailNotificationServiceException.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.service/EmailVerificationServiceImpl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.service/EmailVerificationServiceImpl.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.service/UserServiceException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.service/UserServiceException.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.service/UserServiceImpl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.service/UserServiceImpl.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.service/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/com.appsdeveloperMl.estore.service/index.source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/branchfc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/branchnc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/branchpc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/bundle.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/class.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/greenbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/group.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/method.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/package.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/redbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/report.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/session.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/sort.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/source.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-resources/up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco-sessions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/site/jacoco/jacoco.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/surefire-reports/TEST-com.appsdeveloperMl.estore.service.UserServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/surefire-reports/com.appsdeveloperMl.estore.service.UserServiceTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserService/target/test-classes/com/appsdeveloperMl/estore/service/UserServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UsersServiceSpringBoot" beforeDir="false" afterPath="$PROJECT_DIR$/../UsersServiceSpringBoot" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MatheusLRodrigues"
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:MatheusLRodrigues/Junit5-Mockito.git",
+    "accountId": "43225a02-3f89-4856-bd6b-66cc8126be7e"
+  }
+}]]></component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="27kyfMCmYIIwsv8QFMNG5jcyFOS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.UsersControllerDevITest.executor": "Run",
+    "JUnit.UsersControllerDevITest.testCreateUser_whenValidDetailsProvided_returnsCreatedUser.executor": "Run",
+    "JUnit.UsersControllerH2ITest.executor": "Run",
+    "JUnit.UsersControllerIT.executor": "Run",
+    "JUnit.UsersControllerITest.executor": "Run",
+    "JUnit.UsersControllerWithTestContainerITest.executor": "Run",
+    "JUnit.UsersControllerWithTestContainerITest.testContainerIsRunning.executor": "Run",
+    "JUnit.UsersControllerWithTestContainerITest.testCreateUser_whenValidDetailsProvided_returnsCreatedUser.executor": "Run",
+    "JUnit.ui in UsersService.executor": "Run",
+    "Maven.UsersService [clean].executor": "Run",
+    "Maven.UsersService [compile].executor": "Run",
+    "Maven.UsersService [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/malir/Documents/Java/MavenProject/UsersServiceSpringBoot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.appsdeveloperblog.UsersService.ui" />
+      <recent name="com.appsdeveloperblog.UsersService.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.appsdeveloperblog.UsersService.ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UsersControllerWithTestContainerITest">
+    <configuration name="UsersControllerDevITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UsersService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.UsersService.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsdeveloperblog.UsersService.ui" />
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.UsersService.ui.UsersControllerDevITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersControllerITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UsersService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.UsersService.ui.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsdeveloperblog.UsersService.ui" />
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.UsersService.ui.UsersControllerITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersControllerITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UsersService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.UsersService.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsdeveloperblog.UsersService.ui" />
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.UsersService.ui.UsersControllerITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersControllerWithTestContainerITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UsersService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.UsersService.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsdeveloperblog.UsersService.ui" />
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.UsersService.ui.UsersControllerWithTestContainerITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersControllerWithTestContainerITest.testContainerIsRunning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UsersService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.UsersService.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsdeveloperblog.UsersService.ui" />
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.UsersService.ui.UsersControllerWithTestContainerITest" />
+      <option name="METHOD_NAME" value="testContainerIsRunning" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersControllerWithTestContainerITest.testCreateUser_whenValidDetailsProvided_returnsCreatedUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UsersService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.UsersService.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsdeveloperblog.UsersService.ui" />
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.UsersService.ui.UsersControllerWithTestContainerITest" />
+      <option name="METHOD_NAME" value="testCreateUser_whenValidDetailsProvided_returnsCreatedUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="UsersService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.appsdeveloperblog.UsersService.UsersServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UsersControllerWithTestContainerITest" />
+        <item itemvalue="JUnit.UsersControllerWithTestContainerITest.testContainerIsRunning" />
+        <item itemvalue="JUnit.UsersControllerWithTestContainerITest.testCreateUser_whenValidDetailsProvided_returnsCreatedUser" />
+        <item itemvalue="JUnit.UsersControllerITest" />
+        <item itemvalue="JUnit.UsersControllerDevITest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="674ccce6-bdfc-4806-b337-bc3c2773dba0" name="Changes" comment="" />
+      <created>1649878481465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649878481465</updated>
+      <workItem from="1742158242464" duration="181000" />
+      <workItem from="1742232536715" duration="17203000" />
+      <workItem from="1742418463449" duration="24444000" />
+    </task>
+    <task id="LOCAL-00001" summary="Starting project - Course Testing RESTful Web">
+      <option name="closed" value="true" />
+      <created>1750453080727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750453080727</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Curso JavaSpringBoot Testing" />
+    <MESSAGE value="Starting project - Course Testing RESTful Web" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting project - Course Testing RESTful Web" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/appsdeveloperblog/UsersService/service/UserServiceImpl.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/UsersService/UserControllerTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
