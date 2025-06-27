@@ -151,7 +151,6 @@
       <change beforePath="$PROJECT_DIR$/../UserService/target/surefire-reports/TEST-com.appsdeveloperMl.estore.service.UserServiceTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../UserService/target/surefire-reports/com.appsdeveloperMl.estore.service.UserServiceTest.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../UserService/target/test-classes/com/appsdeveloperMl/estore/service/UserServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/UsersService/ui/UsersControllerWithTestContainerITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/UsersService/ui/UsersControllerWithTestContainerITest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/appsdeveloperblog/UsersService/ui/UsersControllerWithTestContainerITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/appsdeveloperblog/UsersService/ui/UsersControllerWithTestContainerITest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UsersServiceSpringBoot" beforeDir="false" afterPath="$PROJECT_DIR$/../UsersServiceSpringBoot" afterDir="false" />
